@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Janna LT";
+  src: local("Janna LT") url("../fonts/janna.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Janna LT";
+  src: local("Janna LT") url("../fonts/janna-bold.woff") format("woff");
+  font-weight: bold;
+}
+
+
+$family-heading: "Janna LT", "Helviteca Neue", "Segeo UI",sans-serif;
+$family-content: "Janna LT", "Helviteca Neue";
